@@ -15,7 +15,7 @@ fire = '🔥'
 
 # Function definitions
 def roll_dice():
-    print(f'You rolled a {4}')
+    print(f'You rolled a {randint(1, 6)}!')
     
 # Put code to run under here
 print(f'Hello {world}')
