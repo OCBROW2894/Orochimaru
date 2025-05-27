@@ -5,6 +5,8 @@ from random import randint
 world = '🌍🌎🌏'
 python = 'Python 🐍'
 fire = '🔥'
+smile = '😊'
+money = '💰'
 
 # Emojis to copy and paste into your code:
 # 🎊 🙌 🙌🏼 🙌🏽 🙌🏾 🙌🏿 # 😃 🕒 🎨 🎮 🔬 🎉 🕶️ 🎲 😊
@@ -28,3 +30,8 @@ print(f'{2*4}')
 print(f'{4**2}') #** - to the power
 print(f'The Date and time is {datetime.now()}')
 roll_dice()
+
+print(f'I 💚 Programming in {python}')
+print(f'{python} is the best programming language in the world {world}')
+print(f'{python} makes me {smile}')
+print(f'I would like to make {money * 3} with {python}')
