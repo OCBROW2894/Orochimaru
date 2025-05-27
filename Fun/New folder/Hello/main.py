@@ -17,7 +17,7 @@ fire = '🔥'
 def roll_dice():
     max= input('How many sides does your dice have? ')
     print(f'That is a D {max}')
-    roll= randint(1, 6)
+    roll= randint(1, int(max) )
     print(f'You rolled a {roll} {fire*roll}')
     
 # Put code to run under here
