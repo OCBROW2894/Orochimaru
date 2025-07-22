@@ -1,0 +1,1 @@
+- There are two main windows that you will work with in IDLE: the <strong>interactive window</strong>, which is the one that opens when you start IDLE, and the <strong>script window</strong>
