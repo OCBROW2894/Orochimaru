@@ -13,3 +13,6 @@ This loop is commonly referred to as a <b>R</b>ead-<b>E</b>valuate-<b>P</b>rint 
  <br>
  <br>
 A <b>function</b> is a bit of code that typically takes some input, called an <b><i>arrgument</i></b>, does something with that input, and produces some output, called the <b><i>return value</i></b>.
+
+<h3>The Script Window</h3>
+Used for writing Python scripts that have <b>multiple lines</b> of code as the Interactive window limits the programmer to only <b>1 line</b>, hence why you create new files called <b><i>Script Files</i></b>
