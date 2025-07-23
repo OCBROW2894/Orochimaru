@@ -23,5 +23,6 @@ Used for writing Python scripts that have <b>multiple lines</b> of code as the I
 A <b><i>Syntax Error</i></b> occurs when you write some code that isn't allowed in the Python Language
  E.g. <i>print("Hello,World)</i>
 </p>
+<p><b>EOL</b> stands for <b>E</b>end <b>O</b>f <b>L</b>ine</p>
 
 
