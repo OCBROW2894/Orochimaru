@@ -24,5 +24,8 @@ A <b><i>Syntax Error</i></b> occurs when you write some code that isn't allowed 
  E.g. <i>print("Hello,World)</i>
 </p>
 <p><b>EOL</b> stands for <b>E</b>end <b>O</b>f <b>L</b>ine</p>
-
+<p>
+ <h4>Run-time Errors</h4>
+ IDLE catches syntax errors before a program starts running, but some errors can’t be caught until a program is executed. These errors are known as <b><i>run-time errors</i></b> because they only occur at the time that a program is run.
+</p>
 
