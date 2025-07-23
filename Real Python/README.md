@@ -16,3 +16,12 @@ A <b>function</b> is a bit of code that typically takes some input, called an <b
 
 <h3>The Script Window</h3>
 Used for writing Python scripts that have <b>multiple lines</b> of code as the Interactive window limits the programmer to only <b>1 line</b>, hence why you create new files called <b><i>Script Files</i></b>
+<br>
+<p>
+ There are <b>Two</b> main types of Errors in programming: <b><i>Syntax errors </i></b> and <b><i>Run-time errors</i></b>
+ <h4><u>Syntax Errors</u></h4>
+A <b><i>Syntax Error</i></b> occurs when you write some code that isn't allowed in the Python Language
+ E.g. <i>print("Hello,World)</i>
+</p>
+
+
