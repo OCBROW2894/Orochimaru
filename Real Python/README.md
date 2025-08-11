@@ -29,3 +29,10 @@ A <b><i>Syntax Error</i></b> occurs when you write some code that isn't allowed 
  IDLE catches syntax errors before a program starts running, but some errors can’t be caught until a program is executed. These errors are known as <b><i>run-time errors</i></b> because they only occur at the time that a program is run.
 </p>
 
+<p>
+ <b>Variables</b> are names that can be assigned a value and used to reference that value throughout your code.
+ <br>
+ <br>
+ - Variables keep values accessible <br>
+ - Variables give values context
+</p>
