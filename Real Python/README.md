@@ -40,3 +40,11 @@ A <b><i>Syntax Error</i></b> occurs when you write some code that isn't allowed 
 Variable names can be as long or as short as you like, but there are a couple of rules that youmustfollow. Variable names can only contain uppercase and lowercase letters (A–Z, a–z), digits (0–9), and underscores (_). However, variable names cannot begin with a digit.
 
 <p><b>Unicode</b> is a standard for digitally representing text used in most of the world's writing systems.</p>
+<p>
+ <h4><i>Comments</i></h4>
+ Single line comments start with # while a multiline comments has """ Comment """ <br>
+ - Comments that start on a new line are called <b>block comments</b> & Comments that appear in the same line as some code are called <b>in-line comments</b> 
+
+<b><i> N/B</i></b> Python Basics Page 62 for shortcuts 
+</p>
+
