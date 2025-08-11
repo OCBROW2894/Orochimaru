@@ -36,3 +36,5 @@ A <b><i>Syntax Error</i></b> occurs when you write some code that isn't allowed 
  - Variables keep values accessible <br>
  - Variables give values context
 </p>
+<h4>Rules For Valid Variable Names</h4>
+Variable names can be as long or as short as you like, but there are a couple of rules that youmustfollow. Variable names can only contain uppercase and lowercase letters (A–Z, a–z), digits (0–9), and underscores (_). However, variable names cannot begin with a digit.
