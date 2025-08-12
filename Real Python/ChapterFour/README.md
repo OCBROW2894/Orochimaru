@@ -6,3 +6,9 @@
 - Strings are a <b><i>Fundamental</i></b> data type because they cannot be broken down into smaller values of different type.<br>
 - <b><i><u>Compound Data Types</u></i></b> are also known as <b><i>Data Structures</i></b>
 </p>
+<p>
+  <h4><b>3 Main Properties of a string</b></h4>
+- String contain <b>Characters</b> - Which are individual letters and symbols <br>
+- strings have <b>Length</b> - which is the numbers of characters contained in a string <br>
+- Characters in a string appear in a <b>Sequence</b> - which means each character has a numbered position in the string
+</p>
