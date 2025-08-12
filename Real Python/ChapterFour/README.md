@@ -12,3 +12,7 @@
 - strings have <b>Length</b> - which is the numbers of characters contained in a string <br>
 - Characters in a string appear in a <b>Sequence</b> - which means each character has a numbered position in the string
 </p>
+<p>
+ - Whenever you create a string by surrounding texts with quotation marks, the string is called a <b>String Literal</b> <br>
+- The Quotes surrounding the string are called <b>Delimiters</b>
+</p>
