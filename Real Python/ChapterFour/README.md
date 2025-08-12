@@ -18,9 +18,10 @@
 - <b>Docstrings</b> are triple-quoted strings that are used to document code
 </p>
 <p>
-  <h4>Concatination, Indexing & Slicing</h4>
+  <h4>Concatination, Indexing & Slicing Strings</h4>
   - <b>Concatination</b> - Joins two strings together <br>
   - <b>Indexing</b> - Gets a single character from a string <br>
   -<b>Index</b> - Is the numbered position of a character in a string <br>
   - <b>Slicing</b> - Gets sveral characters from a string at once <br>
+  - Strings are <b>Immutable</b> - You can't change them once you've created them
 </p>
