@@ -15,4 +15,5 @@
 <p>
  - Whenever you create a string by surrounding texts with quotation marks, the string is called a <b>String Literal</b> <br>
 - The Quotes surrounding the string are called <b>Delimiters</b>
+- <b>Docstrings</b> are triple-quoted strings that are used to document code
 </p>
