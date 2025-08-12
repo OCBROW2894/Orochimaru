@@ -17,3 +17,9 @@
 - The Quotes surrounding the string are called <b>Delimiters</b>
 - <b>Docstrings</b> are triple-quoted strings that are used to document code
 </p>
+<p>
+  <h4>Concatination, Indexing & Slicing</h4>
+  - <b>Concatination</b> - Joins two strings together <br>
+  - <b>Indexing</b> - Gets a single character from a string <br>
+  - <b>Slicing</b> - Gets sveral characters from a string at once <br>
+</p>
