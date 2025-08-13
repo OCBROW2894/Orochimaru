@@ -2,3 +2,9 @@
 put back. '''
 name=input("Hello, what's your name? ")
 print("Greetings! " + name)
+
+'''Question 2 : Write a script that takes input from the user and displays the input
+ in lowercase. '''
+prompt="What is the name of the city or town you currently in? "
+city_name=input(prompt).lower()
+print(city_name)
