@@ -32,3 +32,23 @@ string3="  Cheeseburger  ".strip()
 print(string1)
 print(string2)
 print(string3)
+
+'''Question 4 : Writeascriptthatprintsouttheresultof.startswith("be")oneach
+ of the following strings:
+ string1 = "Becomes"
+ string2 = "becomes"
+ string3 = "BEAR"
+ string4 = "  bEautiful"
+ '''
+string1 ="Becomes"
+string2="becomes"
+string3="BEAR"
+string4="  bEautiful"
+string1=string1.startswith("be")
+string2=string2.startswith("be")
+string3=string3.startswith("be")
+string4=string4.startswith("be")
+print(string1)
+print(string2)
+print(string3)
+print(string4)
