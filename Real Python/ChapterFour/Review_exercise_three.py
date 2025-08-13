@@ -20,3 +20,15 @@ print(name_one)
 print(name_two)
 print(name_three)
 print(name_four)
+
+'''Question 3 : Write ascript that removes whitespace from the following strings:
+ string1 = "    Filet Mignon"
+ string2 = "Brisket    "
+ string3 = " Cheeseburger    "
+ Print out the strings with the whitespace removed. '''
+string1="    Filet Mignon".lstrip()
+string2="Brisket    ".rstrip()
+string3="  Cheeseburger  ".strip()
+print(string1)
+print(string2)
+print(string3)
