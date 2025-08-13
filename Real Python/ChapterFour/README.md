@@ -25,3 +25,11 @@
   - <b>Slicing</b> - Gets sveral characters from a string at once <br>
   - Strings are <b>Immutable</b> - You can't change them once you've created them
 </p>
+
+<p>
+  <h4>String Methods(NOT ALL)</h4>
+  <b>.lower()</b> and <b>.upper()</b> - To change the cases <br>
+  <b>.rstrip()</b>, <b>.lstrip()</b> and <b>.strip()</b> - To remove white spaces <br>
+  <b>.startswith()</b> and <b>.endswith()</b> - To check if a string starts with or ends with a particular string <b>It's case-sensitive</b>
+  
+</p>
