@@ -9,3 +9,14 @@ print(name_one)
 print(name_two)
 print(name_three)
 print(name_four)
+
+''' Qustion 2 : Repeat Exercise 1, but convert each string to uppercase instead of
+ lowercase. '''
+name_one="Animals".upper()
+name_two="Badger".upper()
+name_three="Honey Bee".upper()
+name_four="Honeybadger".upper()
+print(name_one)
+print(name_two)
+print(name_three)
+print(name_four)
