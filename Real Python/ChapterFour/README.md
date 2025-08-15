@@ -33,3 +33,9 @@
   <b>.startswith()</b> and <b>.endswith()</b> - To check if a string starts with or ends with a particular string <b>It's case-sensitive</b>
   
 </p>
+<p>
+  <h4>Strings and Numbers</h4>
+  - A <b>Sequence</b> is any python object that supports accessing elements by index <br>
+  - There are two ways of changing strings to number Type <b>int()</b> and <b>float()</b> <br>
+  
+</p>
