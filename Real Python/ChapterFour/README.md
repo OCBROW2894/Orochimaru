@@ -37,5 +37,5 @@
   <h4>Strings and Numbers</h4>
   - A <b>Sequence</b> is any python object that supports accessing elements by index <br>
   - There are two ways of changing strings to number Type <b>int()</b> and <b>float()</b> <br>
-  
+  - Use <b>str()</b> to change a number to a string
 </p>
