@@ -11,4 +11,7 @@
  {} place-holders.'''
 weight=0.2
 animal="newt"
-print("{} kg is the weight of the {}.".format(weight,animal))
+##print("{} kg is the weight of the {}.".format(weight,animal))
+
+'''Question 3 : Display the same string using an f-string.'''
+print(f"{weight} kg is the weight of the {animal}.")
