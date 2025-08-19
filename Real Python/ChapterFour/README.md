@@ -39,3 +39,7 @@
   - There are two ways of changing strings to number Type <b>int()</b> and <b>float()</b> <br>
   - Use <b>str()</b> to change a number to a string
 </p>
+
+<p>
+  <h3></h3>
+</p>
