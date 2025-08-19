@@ -41,5 +41,17 @@
 </p>
 
 <p>
-  <h3></h3>
+  <h3><u>Chapter 4 SUMMARY</u></h3>
+  <p>
+     In this chapter, you learned the ins and outs of Python string objects. You learned how to access different characters    in a string using sub scripts and slices, as well as how to determine the length of a string with <b><i>len()</i></b>.
+  </p>
+  <p>
+     Strings come with numerous methods. The <b><i>.upper()</i></b> and <b><i>.lower()</i></b> methods convert all characters of a string to upper or lower case, respectively. The <b><i>.rstrip()</i></b>, <b><i>.lstrip()</i></b>, and <b><i>.strip()</i></b> methods remove whitespace from strings, and the <b><i>.startswith()</i></b> and <b><i>.endswith()</i></b> methods will tell you if a string starts or ends with a given substring.
+  </p>
+  <p>
+     You also saw how to capture input from a user as a string using the <b><i>input()</i></b> function, and how to convert that input to a number using <b><i>int()</i></b> and <b><i>float()</i></b>. To convert numbers, and other objects, to strings, you use <b><i>str()</i></b>.
+  </p>
+  <p>
+    Finally, you saw how the <b><i>.find()</i></b> and <b><i>.replace()</i></b> methods are used to find the location of a substring and replace a substring with a new string.
+  </p>
 </p>
