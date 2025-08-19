@@ -9,14 +9,18 @@
 ##print(f"Welcome {lastName} {firstName}! You're {age} years old.")
 
 
-#Split With Different Delimiters Using sep
-csv_line = "Ankita,Vishal,Jane,Naga,Emily,Maria"
-csv_product_info = "Sweater,Blue,34.99,In Stock"
-names=csv_line.split(sep=",")
-fields=csv_product_info.split(",")
-ex=names[2]
-color=fields[1]
+###Split With Different Delimiters Using sep
+##csv_line = "Ankita,Vishal,Jane,Naga,Emily,Maria"
+##csv_product_info = "Sweater,Blue,34.99,In Stock"
+##names=csv_line.split(sep=",")
+##fields=csv_product_info.split(",")
+##ex=names[2]
+##color=fields[1]
+##
+##print(ex)
+##print(color)
 
-print(ex)
-print(color)
- 
+#Replacing delimeters before splitting
+data = "Apple:Orange|Lemon-Date"
+data1= data.replace(":","|").replace("-","|").split(sep="|")
+print(data1)
