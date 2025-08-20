@@ -55,3 +55,12 @@
     Finally, you saw how the <b><i>.find()</i></b> and <b><i>.replace()</i></b> methods are used to find the location of a substring and replace a substring with a new string.
   </p>
 </p>
+<h4>Extras</h4>
+- <b><i>Reading small files:</i></b> When you read a file’s content into a string, you often want to process it line by line. Using <b><i>.splitlines()</i></b> allows you to quickly convert the entire content into a list of lines, helping you to iterate and analyze the data. <br>
+
+- <b><i>Processing logs:</i></b> Logs typically contain multiple lines of text, each representing a separate event or message. By splitting the log data into individual lines, you can efficiently parse and filter the information that you need.<br>
+
+- <b><i>Handling multiline user input:</i></b> If your application accepts multiline input from users, .splitlines() can help you break down and process each line separately, enabling more granular input validation and processing.
+<p>
+  
+</p>
