@@ -8,13 +8,18 @@
 []: Creates a character set that matches any one of the characters inside the square brackets.
 +: Matches one or more occurrences of the preceding.
 
-NOTE:This Code only works in the interactive screen
+
 
 '''
-
+###NOTE:This Code only works in the interactive screen
+##import re
+##
+##shopping_list = "Apple  :::::3:Orange  |  2|||Lemon --1 AND Date :: 10"
+##pattern = r"\s*(?:[:|\-]+|AND)\s*"
+##
+##re.split(pattern, shopping_list)
 import re
 
-shopping_list = "Apple  :::::3:Orange  |  2|||Lemon --1 AND Date :: 10"
-pattern = r"\s*(?:[:|\-]+|AND)\s*"
-
-re.split(pattern, shopping_list)
+shopping_list = "Apple:Orange|Lemon-Date"
+actual_list=re.split(r"[:|-]",shopping_list)
+print(actual_list)
