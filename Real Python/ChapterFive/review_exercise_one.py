@@ -10,5 +10,11 @@
 '''Question 2 : Write a script that assigns the floating-point literal 175000.0 to the
  variable num using exponential notation, and then prints num in the
  interactive window. '''
-num = 175e3
-print(num)
+##num = 175e3
+##print(num)
+
+'''Question 3 : Write a script that assigns the floating-point literal 175000.0 to the
+ variable num using exponential notation, and then prints num in the
+ interactive window. '''
+N = int(input("The Samllest exponent number N: "))
+print(2eN)
