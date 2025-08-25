@@ -22,3 +22,9 @@
   - <b><i>abs()</i></b>, for getting the absolute value of a number <br>
   - <b><i>pow()</i></b>, for rasing a number to some power
 </p>
+<p>
+  <b>Note:</b>  When you round ties to even, you first look at the digit one decimal place to the left of the last digit in the tie. <i><b>If that digit is even, you round down. If the digit is odd, you round up.</b></i>
+  <p>
+   <b> Second Note:</b> Rounding ties to even is the rounding strategy recommended for floating-point numbers by the <i><b>IEEE (Institute of Electrical and Electronics Engineers)</b></i> because it helps limit the impact rounding has on operations involving lots of numbers.
+  </p>
+</p>
