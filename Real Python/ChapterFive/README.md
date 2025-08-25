@@ -28,3 +28,7 @@
    <b> Second Note:</b> Rounding ties to even is the rounding strategy recommended for floating-point numbers by the <i><b>IEEE (Institute of Electrical and Electronics Engineers)</b></i> because it helps limit the impact rounding has on operations involving lots of numbers.
   </p>
 </p>
+<p>
+  <b><i>pow(x, y, z)</i></b> is equivalent to <b><i>(x ** y) % z</i></b>.
+  
+</p>
