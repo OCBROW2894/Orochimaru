@@ -10,3 +10,15 @@
   2. ** - <b><i>exponents</i></b>/Power of <br>
   3. % - <b><i>Modulus</i></b> returns the remainder of the number being divided (<b>To calculate the remainder r of dividing a number x by a number y, Python uses the equation <i>r=x-(y*(x//y))</i></b>
 </p>
+
+<p>
+  <img width="525" height="414" alt="image" src="https://github.com/user-attachments/assets/1d8c1776-9140-4a57-80c1-fb6670b28665" />
+</p>
+
+<p>
+  <h3>Math function and Number Methods</h3>
+  Most Common: <br>
+  - <b><i>round()</i></b>, for rounding numbers to some number of decimal places <br>
+  - <b><i>abs()</i></b>, for getting the absolute value of a number <br>
+  - <b><i>pow()</i></b>, for rasing a number to some power
+</p>
