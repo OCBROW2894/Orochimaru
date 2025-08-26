@@ -41,6 +41,7 @@
 </p>
 <p>
   <img width="633" height="786" alt="image" src="https://github.com/user-attachments/assets/22e469bf-48ec-464b-9f6c-e97fb4455b22" /> <br>
-n = real(1) Operator(+,*,/) imaginary(2) indicator (j)
-</p>
+n = real(1) Operator(+,*,/) imaginary(2) indicator (j) <br>
+  <img width="670" height="125" alt="image" src="https://github.com/user-attachments/assets/43706e61-4781-4239-8f2d-e3ed2c635790" />
 
+</p>
