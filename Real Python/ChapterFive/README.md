@@ -52,3 +52,7 @@ n = real(1) Operator(+,*,/) imaginary(2) indicator (j) <br>
   <b>TO DO:<i>To know more about Complex arithmetics (when I find the perfect use for it as this will help me learn quickly)</i></b> - https://en.wikipedia.org/wiki/Complex_number#Elementary_operations
 </p>
 
+<p>
+  <img width="771" height="668" alt="image" src="https://github.com/user-attachments/assets/48792c2f-45d4-410d-a429-55be870275cd" />
+
+</p>
