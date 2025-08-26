@@ -43,5 +43,11 @@
   <img width="633" height="786" alt="image" src="https://github.com/user-attachments/assets/22e469bf-48ec-464b-9f6c-e97fb4455b22" /> <br>
 n = real(1) Operator(+,*,/) imaginary(2) indicator (j) <br>
   <img width="670" height="125" alt="image" src="https://github.com/user-attachments/assets/43706e61-4781-4239-8f2d-e3ed2c635790" />
+<br>
+  <b>TO DO:<i>To know more about Complex arithmetics (when I find the perfect use for it as this will help me learn quickly)</i></b> - https://en.wikipedia.org/wiki/Complex_number#Elementary_operations
+</p>
+<p>
+  <h3>Complex Arithmetics</h3>
+  <img width="759" height="555" alt="image" src="https://github.com/user-attachments/assets/11f57b1a-a4a3-45d9-94ea-125bac378dee" />
 
 </p>
