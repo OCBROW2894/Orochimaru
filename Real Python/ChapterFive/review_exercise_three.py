@@ -10,5 +10,11 @@
 '''Question 2 : Print the number 150000 as currency, with the thousands grouped
  with commas. Currency should be displayed with two decimal places.
 '''
-n = 150000
-print(f"{n:,.2f}")
+##n = 150000
+##print(f"{n:,.2f}")
+
+'''Question 3 : Print the result of 2 / 10 as a percentage with no decimal places.
+ The output should look like 20%.
+'''
+n = 0.2
+print(f"{n:.0%}")
