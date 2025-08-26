@@ -55,7 +55,9 @@ n = real(1) Operator(+,*,/) imaginary(2) indicator (j) <br>
 <p>
   <img width="771" height="668" alt="image" src="https://github.com/user-attachments/assets/48792c2f-45d4-410d-a429-55be870275cd" />
   <br>
-  <img width="666" height="632" alt="image" src="https://github.com/user-attachments/assets/8746b4cc-def3-4d2b-8978-a5a8a88b2281" />
+  <img width="666" height="611" alt="image" src="https://github.com/user-attachments/assets/004ac415-2809-4df8-a727-a2e4633475a8" />
+
 
 </p>
+
 
