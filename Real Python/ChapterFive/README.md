@@ -39,3 +39,7 @@
   <b><i>{n:,.2f}</i></b> - adds the commas and still rounds off to two decimal places <br>
   <b><i>{ratio:.1%}</i></b> - ratio being 0.9 multiplies it by 100 to get the percentage, the 1 represents the number of decimal places hence 90.0%
 </p>
+<p>
+  <img width="633" height="786" alt="image" src="https://github.com/user-attachments/assets/22e469bf-48ec-464b-9f6c-e97fb4455b22" /> <br>
+n = real(1) Operator(+,*/) imaginary(2) indicator (j)
+</p>
