@@ -32,3 +32,10 @@
   <b><i>pow(x, y, z)</i></b> is equivalent to <b><i>(x ** y) % z</i></b>.
   
 </p>
+
+<p>
+  <b><i>{n:.2f}</i></b> - rounds off a number n to 2 decimal places <br>
+  <b><i>{n:,}</i></b> - adds commas to a big integer (1000 to 1,000) <br>
+  <b><i>{n:,.2f}</i></b> - adds the commas and still rounds off to two decimal places <br>
+  <b><i>{ratio:.1%}</i></b> - ratio being 0.9 multiplies it by 100 to get the percentage, the 1 represents the number of decimal places hence 90.0%
+</p>
