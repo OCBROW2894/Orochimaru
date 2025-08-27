@@ -60,7 +60,10 @@ n = real(1) Operator(+,*,/) imaginary(2) indicator (j) <br>
   <img width="486" height="307" alt="image" src="https://github.com/user-attachments/assets/45bc92e7-2075-457e-b40e-8f77011e1082" />
   <br>
   <b>For more info on <i>Basic Data Types in Python</i></b>: https://realpython.com/python-data-types/
+  <br>
+  <b>For more info on <i>How o round Numbers in Python</i></b>: https://realpython.com/python-rounding/
 </p>
+
 
 
 
