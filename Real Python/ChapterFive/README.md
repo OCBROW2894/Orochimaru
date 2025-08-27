@@ -58,9 +58,10 @@ n = real(1) Operator(+,*,/) imaginary(2) indicator (j) <br>
   <img width="666" height="611" alt="image" src="https://github.com/user-attachments/assets/004ac415-2809-4df8-a727-a2e4633475a8" />
   <br>
   <img width="486" height="307" alt="image" src="https://github.com/user-attachments/assets/45bc92e7-2075-457e-b40e-8f77011e1082" />
-
-  
+  <br>
+  <b>For more info on <i>Basic Data Types in Python</i></b>: https://realpython.com/python-data-types/
 </p>
+
 
 
 
