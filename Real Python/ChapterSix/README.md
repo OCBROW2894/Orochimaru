@@ -7,6 +7,15 @@
  <img width="703" height="275" alt="image" src="https://github.com/user-attachments/assets/cc09ca99-236c-48fe-803b-1703f3ec2fbb" /> <br>
  - A <b><i>Side Effect</i></b> - is when a function affects something external to the function itself <br>
  - When you call <b><i>print()</i></b>, the things that gets displayed is not the return value. It's the side effect of <i>print()</i>
+</p>
+<p>
+ <img width="740" height="227" alt="image" src="https://github.com/user-attachments/assets/3b5b7a17-0f66-4eba-b1e4-cef14c26a74a" /> <br>
+<img width="675" height="117" alt="image" src="https://github.com/user-attachments/assets/e76bfbfb-991b-4dc5-9fd7-a52169dc76f5" /> <br>
+The function signature has 4 parts: <br>
+1. The <i>def</i> keyword <br>
+2. The function <i>name</i> <br>
+3. The arguments, <i>(x, y)</i> <br>
+4. A colon <i>(:)</i> at the end of the line
 
 </p>
 
