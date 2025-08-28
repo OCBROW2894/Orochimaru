@@ -11,11 +11,10 @@
 <p>
  <img width="740" height="227" alt="image" src="https://github.com/user-attachments/assets/3b5b7a17-0f66-4eba-b1e4-cef14c26a74a" /> <br>
 <img width="675" height="117" alt="image" src="https://github.com/user-attachments/assets/e76bfbfb-991b-4dc5-9fd7-a52169dc76f5" /> <br>
-The function signature has 4 parts: <br>
+The <i><b>Function Signature</b></i> has 4 parts: <br>
 1. The <i>def</i> keyword <br>
 2. The function <i>name</i> <br>
 3. The arguments, <i>(x, y)</i> <br>
-4. A colon <i>(:)</i> at the end of the line
-
+4. A colon <i>(:)</i> at the end of the line <br>
+The <i><b>Function Body</b></i> is the code that gets run whenever the function is used in your program
 </p>
-
