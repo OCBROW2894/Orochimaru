@@ -18,16 +18,7 @@
 
 """ Functions with no return Statement"""
 
-##def greet(name):
-##    print(f"Hello, {name}!")
-##
-##greet("Tendo Pain")
+def greet(name):
+    print(f"Hello, {name}!")
 
-
-def multiply(x,y):
-    """Return the product of two numbers x and y. """
-    product = x*y
-    return product
-
-num = multiply(8,94)
-print(num)
+greet("Tendo Pain")
