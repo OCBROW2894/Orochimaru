@@ -16,5 +16,8 @@ The <i><b>Function Signature</b></i> has 4 parts: <br>
 2. The function <i>name</i> <br>
 3. The arguments, <i>(x, y)</i> <br>
 4. A colon <i>(:)</i> at the end of the line <br>
-The <i><b>Function Body</b></i> is the code that gets run whenever the function is used in your program
+The <i><b>Function Body</b></i> is the code that gets run whenever the function is used in your program <br>
+ <b>NOTE:-</b> A <b><i>Container</i></b> is a special name for an object that contains other objects <br>
+ - A <b><i>Docstring</i></b> Is a triple-quoted string literal placed at the top of the function body
 </p>
+
