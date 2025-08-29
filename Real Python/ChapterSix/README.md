@@ -21,6 +21,8 @@ The <i><b>Function Body</b></i> is the code that gets run whenever the function 
  - A <b><i>Docstring</i></b> Is a triple-quoted string literal placed at the top of the function body
 </p>
 <p>
+ <h3>Run In Circles</h3>
  - A <b>Loop</b> is a block of code that gets repeated over and over again until a certain conditions is met
 </p>
+
 
