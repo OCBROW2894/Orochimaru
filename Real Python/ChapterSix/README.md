@@ -20,4 +20,7 @@ The <i><b>Function Body</b></i> is the code that gets run whenever the function 
  <b>NOTE:-</b> A <b><i>Container</i></b> is a special name for an object that contains other objects <br>
  - A <b><i>Docstring</i></b> Is a triple-quoted string literal placed at the top of the function body
 </p>
+<p>
+ - A <b>Loop</b> is a block of code that gets repeated over and over again until a certain conditions is met
+</p>
 
