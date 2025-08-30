@@ -24,10 +24,9 @@ The <i><b>Function Body</b></i> is the code that gets run whenever the function 
  <h3>Run In Circles</h3>
  - A <b>Loop</b> is a block of code that gets repeated over and over again until a certain conditions is met <br>
  <img width="693" height="282" alt="image" src="https://github.com/user-attachments/assets/bcdf2b90-774a-4640-9249-ce6d502ea76a" /> <img width="267" height="271" alt="image" src="https://github.com/user-attachments/assets/65120501-5d58-407d-a59a-52c36e074be0" /> <img width="726" height="356" alt="image" src="https://github.com/user-attachments/assets/9379596b-9ba8-4d0c-8acd-4361b0bf7c25" />
-
-
+</p>
+<p>
+ <h3>Understand scope in python</h3>
+ <img width="733" height="373" alt="image" src="https://github.com/user-attachments/assets/991e1453-e9fe-4466-a244-70d5d71ea773" />
 
 </p>
-
-
-
