@@ -27,6 +27,12 @@ The <i><b>Function Body</b></i> is the code that gets run whenever the function 
 </p>
 <p>
  <h3>Understand scope in python</h3>
- <img width="733" height="373" alt="image" src="https://github.com/user-attachments/assets/991e1453-e9fe-4466-a244-70d5d71ea773" />
+ <img width="733" height="373" alt="image" src="https://github.com/user-attachments/assets/991e1453-e9fe-4466-a244-70d5d71ea773" /> <br>
+
+<h4>The LEGB Rule</h4>
+A useful way to remember how Python resolves scope is with the
+ <b>LEGB</b> rule. This rule is an acronym for <b>L</b>ocal, <b>E</b>nclosing, <b>G</b>lobal, <b>B</b>uilt-in. <br>
+ <img width="736" height="502" alt="image" src="https://github.com/user-attachments/assets/8304db2b-6af4-4d20-8c19-7391229dc8e5" />
 
 </p>
+
