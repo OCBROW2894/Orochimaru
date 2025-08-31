@@ -35,4 +35,7 @@ A useful way to remember how Python resolves scope is with the
  <img width="736" height="502" alt="image" src="https://github.com/user-attachments/assets/8304db2b-6af4-4d20-8c19-7391229dc8e5" />
 
 </p>
-
+<p>
+ <h3>Additional content</h3>
+ <h4>Python while Loops: Repeating Tasks Conditionally</h4>
+</p>
