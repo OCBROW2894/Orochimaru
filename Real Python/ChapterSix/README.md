@@ -36,6 +36,7 @@ A useful way to remember how Python resolves scope is with the
 
 </p>
 <p>
- <h3>Additional content</h3>
- <h4>Python while Loops: Repeating Tasks Conditionally</h4>
+ <h2>Additional content</h2>
+ <h3>Python while Loops: Repeating Tasks Conditionally</h3>
 </p>
+
