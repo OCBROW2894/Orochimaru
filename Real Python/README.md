@@ -2,4 +2,7 @@
 <p><img width="581" height="479" alt="image" src="https://github.com/user-attachments/assets/7dbd69a5-59f4-435b-8479-afc59c421f59" />
 </p>
 <a href="https://realpython.com/python-beginner-tips/">For more Info</a>
-
+<p>
+  <h3>Python Keywords: An Introduction👇🏾👇🏾👇🏾</h3>
+  https://realpython.com/python-while-loop/
+</p>
