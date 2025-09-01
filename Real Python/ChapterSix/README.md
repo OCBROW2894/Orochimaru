@@ -46,3 +46,4 @@ A useful way to remember how Python resolves scope is with the
 </p>
 
 
+
