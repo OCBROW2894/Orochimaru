@@ -38,5 +38,11 @@ A useful way to remember how Python resolves scope is with the
 <p>
  <h2>Additional content</h2>
  <h3>Python while Loops: Repeating Tasks Conditionally</h3>
+ <h4>Using Advanced While Loop Syntax</h4>
+ - <b><i>break:</i></b> Immediately terminates a loop. The program execution then proceeds with the first statement following the loop body.
+ - <b><i>continue:</i></b>  Ends only the current iteration. The execution jumps back to the loop header, and the loop condition is evaluated to determine whether the loop will execute again.
+ - <b><i>else:</i></b> The code under the else clause will run only if the while loop terminates naturally without encountering a break statement. In other words, it executes when the loop condition becomes false, and only then. <br>
+<b><i>Note that it doesn’t make much sense to have an else clause in a loop that doesn’t have a break statement. In that case, placing the else block’s content after the loop—without indentation—will work the same and be cleaner.</i></b>
 </p>
+
 
