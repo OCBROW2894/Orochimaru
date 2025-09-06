@@ -4,4 +4,7 @@
 <p>
   <h4>The STEP Button</h4>
   - You can probably imagine how beneficial this feature is when trying to locate the source of bugs in your programs. Knowing each variables value at each line of code can help you pinpoint where things go wrong.
+  <h4>Breakpoints and the "Go" Button</h4>
+  - <b><i>Breakpoint</i></b> - Breakpoints tell the debugger when to pause code execution so that you can take a look at the current state of the program. They don’t actually break anything.
+  
 </p>
