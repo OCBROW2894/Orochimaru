@@ -12,3 +12,8 @@
 - The <b><i>Over</i></b> button works as sort of a combination of Go . It steps over a function or loop. In other words, if you’re about to Step and Step into a function with the debugger,you can still run that function’s code without having to Step all the way through each line of it. The Over button takes you directly to the result of running that function. <br>
 - Likewise, if you’re already inside of a function orloop, the <b><i>Out</i></b> button executes the remaining code inside the function or loop body and then pauses.
 </p>
+<p>
+  <h3>Four-Step Approach to finding bugs</h3>
+  <img width="713" height="257" alt="image" src="https://github.com/user-attachments/assets/0257fdd2-0b8c-479f-8020-af93e4c17580" /> <br>
+
+</p>
