@@ -7,4 +7,8 @@
   <h4>Breakpoints and the "Go" Button</h4>
   - <b><i>Breakpoint</i></b> - Breakpoints tell the debugger when to pause code execution so that you can take a look at the current state of the program. They don’t actually break anything. <br>
   - Each time you press the <b><i>Go</i></b> button, the debugger runs the code continuously until the next breakpoint is reached. 
+
+<h4>"Over" and "Out"</h4>
+- The <b><i>Over</i></b> button works as sort of a combination of Go . It steps over a function or loop. In other words, if you’re about to Step and Step into a function with the debugger,you can still run that function’s code without having to Step all the way through each line of it. The Over button takes you directly to the result of running that function. <br>
+- Likewise, if you’re already inside of a function orloop, the <b><i>Out</i></b> button executes the remaining code inside the function or loop body and then pauses.
 </p>
