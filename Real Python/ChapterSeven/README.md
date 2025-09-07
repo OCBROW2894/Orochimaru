@@ -18,4 +18,9 @@
 </p>
 <p>
  - The process of re-writing existing code to be cleaner, easier to read and understand, or adhere to code standards set by a team is called <b><i>Refactoring</i></b>. 
+  <h3>Summary and Additional Resources</h3>
+  <img width="707" height="443" alt="image" src="https://github.com/user-attachments/assets/34839340-16ac-42d8-a157-945abd3b836c" /> <br>
+<b>NOTE:</b> <i>One way to get some practice is to open the Debug Control Window
+ and use it to step through your code as you work on the exercises and
+ challenges throughout the rest of </i>
 </p>
