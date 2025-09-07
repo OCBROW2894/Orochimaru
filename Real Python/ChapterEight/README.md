@@ -18,5 +18,15 @@ Strings are ordered <b><i>Lexicographically</i></b>, which is a fancy way to say
 
 <img width="507" height="190" alt="image" src="https://github.com/user-attachments/assets/8a855efd-d4fe-4515-b94c-1ba7f7b3dc48" />
 
+</p>
+<p>
+  <h3>Control the Flow of Your Program</h3>
+  - <b><i>if</i></b> :- An if statement tells Python to only execute a portion of code if a condition is met <br>
+  - <b><i>else</i></b> :- The else keyword is used after an if statement in order to execute some code only if the if statement’s test condition is False <br>
+  <img width="676" height="89" alt="image" src="https://github.com/user-attachments/assets/6ddb1bf8-f3ca-4f4d-bd0a-9444e2549202" /> <br>
+
+  -<b><i>elif</i></b> :- Theelifkeywordisshortfor“elseif”andcanbeusedtoaddadditional
+ conditions after an if statement <br>
+  <img width="679" height="197" alt="image" src="https://github.com/user-attachments/assets/983edfe3-5867-4d5b-96b0-33c68472fa47" />
 
 </p>
