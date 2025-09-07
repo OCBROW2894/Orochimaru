@@ -22,5 +22,5 @@
   <img width="707" height="443" alt="image" src="https://github.com/user-attachments/assets/34839340-16ac-42d8-a157-945abd3b836c" /> <br>
 <b>NOTE:</b> <i>One way to get some practice is to open the Debug Control Window
  and use it to step through your code as you work on the exercises and
- challenges throughout the rest of </i>
+ challenges throughout the rest of your life as a Software Engineer</i>
 </p>
