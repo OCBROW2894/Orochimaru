@@ -4,10 +4,8 @@
 
 def add_underscores(word):
     new_word = "_"
-    for i in range(0, len(word)):
-        new_word = new_word + word[i] + "_"
-        # new_word = word[i] + "_"
-        print(f"i = {i}; new_word = {new_word}")
+    for char in word:
+        new_word = new_word + char + "_"
     return new_word
 
 phrase = "hello"
