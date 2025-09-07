@@ -23,4 +23,9 @@
 <b>NOTE:</b> <i>One way to get some practice is to open the Debug Control Window
  and use it to step through your code as you work on the exercises and
  challenges throughout the rest of your life as a Software Engineer</i>
+
+<h4>Addidtional Resouces</h4>
+- Insert this ( <b><i>import pdb; pdb.set_trace()</i></b> ) at the location you want to break into the debugger, the Easy and Recommened way starting in Python 3.7 ( <b><i>breakpoint()</i></b>
+
+<h1>Honestly Just use the IDE debugger</h1>
 </p>
