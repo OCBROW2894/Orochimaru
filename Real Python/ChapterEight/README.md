@@ -10,4 +10,8 @@ Strings are ordered <b><i>Lexicographically</i></b>, which is a fancy way to say
   <h4> AND</h4>
   <img width="338" height="193" alt="image" src="https://github.com/user-attachments/assets/d6941ebb-9a36-4215-97d7-296d7ab7f37e" />
 
+<h4>OR</h4>
+<img width="323" height="190" alt="image" src="https://github.com/user-attachments/assets/5616dbba-8ea4-4c1e-8d5f-dc83f0635969" />
+
+
 </p>
