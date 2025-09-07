@@ -13,5 +13,7 @@ Strings are ordered <b><i>Lexicographically</i></b>, which is a fancy way to say
 <h4>OR</h4>
 <img width="323" height="190" alt="image" src="https://github.com/user-attachments/assets/5616dbba-8ea4-4c1e-8d5f-dc83f0635969" />
 
+<h4>NOT</h4>
+<img width="577" height="150" alt="image" src="https://github.com/user-attachments/assets/a978c1b9-983c-4392-8a43-f2407e7ecdd1" />
 
 </p>
