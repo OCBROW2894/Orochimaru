@@ -15,5 +15,7 @@
 <p>
   <h3>Four-Step Approach to finding bugs</h3>
   <img width="713" height="257" alt="image" src="https://github.com/user-attachments/assets/0257fdd2-0b8c-479f-8020-af93e4c17580" /> <br>
-
+</p>
+<p>
+ - The process of re-writing existing code to be cleaner, easier to read and understand, or adhere to code standards set by a team is called <b><i>Refactoring</i></b>. 
 </p>
