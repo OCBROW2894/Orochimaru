@@ -30,3 +30,9 @@ Strings are ordered <b><i>Lexicographically</i></b>, which is a fancy way to say
   <img width="679" height="197" alt="image" src="https://github.com/user-attachments/assets/983edfe3-5867-4d5b-96b0-33c68472fa47" />
 
 </p>
+<p>
+  <h3>Break out of the pattern</h3>
+  - <b><i>break</i></b> - Thebreak keyword tells Python to literally break out of a loop. That is, the loop stops completely and any code after the loop is executed. <br>
+  -<b><i>continue</i></b> - The continue keyword is used to skip any remaining code in the loop body and continue on to the next iteration.
+  
+</p>
