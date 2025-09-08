@@ -41,4 +41,5 @@ Strings are ordered <b><i>Lexicographically</i></b>, which is a fancy way to say
 <h4>A Zoo of Exceptions</h4>
 - <b><i>ValueError</i></b> - A ValueError occurs when an operation encounters an invalid value. <i> For example, trying to convert the string "not a number" to an integer results in a ValueError</i> <br>
 - <b><i>TypeError</i></b> - A TypeError occurs when an operation is performed on a value of the wrong type. <i> For example, trying to add a string and an integer will result in a TypeError:</i> <br>
+- <b><i>NameError</i></b> - A NameError occurs when you try to use a variable name that hasn’t been defined yet <br>
 </p>
