@@ -38,5 +38,6 @@ Strings are ordered <b><i>Lexicographically</i></b>, which is a fancy way to say
   <h3>Recover from Errors</h3>
   <img width="684" height="84" alt="image" src="https://github.com/user-attachments/assets/8ed750aa-ed6b-4650-a19c-1d362612b474" />
 
-
+<h4>A Zoo of Exceptions</h4>
+- <b><i>ValueError</i></b> - A ValueError occurs when an operation encounters an invalid value. <i> For example, trying to convert the string "not a number" to an integer results in a ValueError</i>
 </p>
