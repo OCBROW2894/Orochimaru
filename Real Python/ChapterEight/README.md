@@ -44,4 +44,12 @@ Strings are ordered <b><i>Lexicographically</i></b>, which is a fancy way to say
 - <b><i>NameError</i></b> - A NameError occurs when you try to use a variable name that hasn’t been defined yet <br>
 - <b><i>ZeroDivisionError</i></b> - A ZeroDivisionError occurs when the divisor in a division operation is 0 <br>
 - <b><i>OverFlowError</i></b> - An OverflowError occurs when the result of an arithmetic operation is too large. <i>For example, trying to raise the value 2.0 to the power 1_000_000 results in an OverflowError</i> <br>
+
+<h4>THE "BARE" except CLAUSE</h4>
+<img width="684" height="125" alt="image" src="https://github.com/user-attachments/assets/cd39c179-943c-4525-b9e4-4ddb6b778c3b" /> <br>
+<p>
+  This might sound like a great way to ensure your program never crashes, <b><i>but this is actually bad idea and the pattern is generally frowned upon!</i></b> <br>
+  There are a couple of reasons for this, but the most important reason for new programmers is that catching every exception could hide bugs in your code, giving you a false sense of confidence that your code works as expected.
+</p>
+
 </p>
