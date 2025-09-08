@@ -35,4 +35,8 @@ Strings are ordered <b><i>Lexicographically</i></b>, which is a fancy way to say
   - <b><i>break</i></b> - Thebreak keyword tells Python to literally break out of a loop. That is, the loop stops completely and any code after the loop is executed. <br>
   -<b><i>continue</i></b> - The continue keyword is used to skip any remaining code in the loop body and continue on to the next iteration.
   
+  <h3>Recover from Errors</h3>
+  <img width="684" height="84" alt="image" src="https://github.com/user-attachments/assets/8ed750aa-ed6b-4650-a19c-1d362612b474" />
+
+
 </p>
