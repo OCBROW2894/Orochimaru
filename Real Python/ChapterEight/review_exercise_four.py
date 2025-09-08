@@ -2,11 +2,21 @@
  input and only quits if the user enters "q" or "Q".
 """
 
-letter = input("Guess the special letter: ").lower()
+##letter = input("Guess the special letter: ").lower()
+##
+##while letter != "q" :
+##    letter = input("wrong! Guess again: ").lower()
+##
+##    if letter == "q" :
+##        print(f"Congratulations! {letter} is the Special letter.")
+##        break
 
-while letter != "q" :
-    letter = input("wrong! Guess again: ").lower()
+"""Question 2 : Using continue, write a program that loops over the numbers 1 to
+ 50 and prints all numbers that are not multiples of 3.
+"""
 
-    if letter == "q" :
-        print(f"Congratulations! {letter} is the Special letter.")
-        break
+for n in range(1,50 + 1):
+    m = n % 3
+    if m == 0 :
+        continue
+    print(n)
