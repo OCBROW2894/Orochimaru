@@ -35,4 +35,21 @@ Strings are ordered <b><i>Lexicographically</i></b>, which is a fancy way to say
   - <b><i>break</i></b> - Thebreak keyword tells Python to literally break out of a loop. That is, the loop stops completely and any code after the loop is executed. <br>
   -<b><i>continue</i></b> - The continue keyword is used to skip any remaining code in the loop body and continue on to the next iteration.
   
+  <h3>Recover from Errors</h3>
+  <img width="684" height="84" alt="image" src="https://github.com/user-attachments/assets/8ed750aa-ed6b-4650-a19c-1d362612b474" />
+
+<h4>A Zoo of Exceptions</h4>
+- <b><i>ValueError</i></b> - A ValueError occurs when an operation encounters an invalid value. <i> For example, trying to convert the string "not a number" to an integer results in a ValueError</i> <br>
+- <b><i>TypeError</i></b> - A TypeError occurs when an operation is performed on a value of the wrong type. <i> For example, trying to add a string and an integer will result in a TypeError:</i> <br>
+- <b><i>NameError</i></b> - A NameError occurs when you try to use a variable name that hasn’t been defined yet <br>
+- <b><i>ZeroDivisionError</i></b> - A ZeroDivisionError occurs when the divisor in a division operation is 0 <br>
+- <b><i>OverFlowError</i></b> - An OverflowError occurs when the result of an arithmetic operation is too large. <i>For example, trying to raise the value 2.0 to the power 1_000_000 results in an OverflowError</i> <br>
+
+<h4>THE "BARE" except CLAUSE</h4>
+<img width="684" height="125" alt="image" src="https://github.com/user-attachments/assets/cd39c179-943c-4525-b9e4-4ddb6b778c3b" /> <br>
+<p>
+  This might sound like a great way to ensure your program never crashes, <b><i>but this is actually bad idea and the pattern is generally frowned upon!</i></b> <br>
+  There are a couple of reasons for this, but the most important reason for new programmers is that catching every exception could hide bugs in your code, giving you a false sense of confidence that your code works as expected.
+</p>
+
 </p>
