@@ -54,3 +54,43 @@ Strings are ordered <b><i>Lexicographically</i></b>, which is a fancy way to say
 </p>
 
 </p>
+<p>
+  The Wikipedia page on the [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method) provides a comprehensive overview of this powerful computational technique. Here's a concise summary:
+
+### 🧠 What Is the Monte Carlo Method?
+- A class of algorithms that use repeated random sampling to solve problems.
+- Named after the Monte Carlo Casino due to its reliance on randomness.
+- Useful for problems that are deterministic but too complex to solve analytically.
+
+### 🔍 Core Applications
+- **Optimization**: Finding best solutions under constraints.
+- **Numerical Integration**: Estimating integrals, especially in high dimensions.
+- **Probability Distribution Sampling**: Generating random samples from complex distributions.
+
+### 🧪 How It Works
+1. Define a domain of possible inputs.
+2. Randomly generate inputs from a probability distribution.
+3. Perform deterministic computations.
+4. Aggregate results to approximate the solution.
+
+### 📌 Example
+- Estimating π by randomly placing points in a square and counting how many fall inside a quadrant of a circle.
+
+### 🛠️ Advanced Techniques
+- **Markov Chain Monte Carlo (MCMC)**: Samples from complex distributions using Markov chains.
+- **Mean-field particle methods**: Use interacting particles to simulate nonlinear processes.
+
+### ⚠️ Limitations
+- High computational cost.
+- Curse of dimensionality.
+- Dependence on quality of random number generators.
+
+### 🌍 Fields of Use
+- Physics, chemistry, biology, finance, AI, engineering, climate science, law, and even library science.
+- Widely used in simulations, risk analysis, game AI (e.g., Monte Carlo Tree Search), and rendering in computer graphics.
+
+### 🕰️ Historical Origins
+- Developed in the 1940s by Stanisław Ulam and John von Neumann during nuclear weapons research.
+- Evolved through contributions in physics, statistics, and computational science.
+
+</p>
