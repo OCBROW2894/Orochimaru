@@ -35,5 +35,5 @@ while True:
     except ValueError:
         print("That is not an integer!")
         
-    except:
+    except IndexError:
         print("The is larger than the length of the string you provided!")
