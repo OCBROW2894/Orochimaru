@@ -6,11 +6,34 @@
  the number back to the user and end without crashing.
 """
 
-while True :
+##while True :
+##    try:
+##        num = int(input("Enter an Integer: "))
+##        print(f"{num}")
+##        break
+##    except ValueError:
+##        print("Try Again! Integer please.")
+
+"""Question 2 : Writeaprogramthataskstheusertoinputastringandaninteger
+ n. Then display the character at index n in the string.
+ 
+ Use error handling to make sure the program doesn’t crash
+ if the user does not enter an integer or the index is out of bounds.
+ The program should display a different message depending on
+ what error occurs.
+"""
+s = input("Enter a string: ")
+
+while True:
     try:
-        num = int(input("Enter an Integer: "))
-        print(f"{num}")
+        n = int(input("Enter an integer: "))
+        
+        answer = s[n]
+        
+        print(f"{answer}")
         break
     except ValueError:
-        print("Try Again! Integer please.")
-
+        print("That is not an integer!")
+        
+    except:
+        print("The is larger than the length of the string you provided!")
