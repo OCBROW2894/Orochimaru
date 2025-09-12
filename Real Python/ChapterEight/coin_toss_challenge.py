@@ -4,28 +4,26 @@
 
 import random
 
-def coin_toss():
-    """Coin flip"""
-    if random.randint(0, 1) == 0:
-        return "heads"
-    else:
-        return "tails"
+def one_trial():
+    """Number of flips per trial"""
+    outcome = random.randint(0, 1)
+    flips = 1
 
-flips = 1
-flips_per_trial = 0
-outcome = coin_toss()
-
-for trial in range(10_000 + 1):
-    while outcome == coin_toss():
+    while outcome == random.randint(0, 1):
         flips = flips + 1
-    else:
-        flips_per_trial = flips
-        new_f_p_t = flips_per_trial
-        flips = flips + 1
-        trial = trial + 1
-        print(f"{flips_per_trial} {flips} {trial}")
 
-    flips_per_trial = flips_per
+    flips = flips + 1
+    return flips
+
+
+trials = 0
+
+for trial in range(10_000):
+    trials = trials + one_trial()
+    average = trials/10_000
+
+print(f"The average flips per Trial is: {average:.3f}")
+    
 
         
 
