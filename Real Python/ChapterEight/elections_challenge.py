@@ -9,9 +9,10 @@ region1_prob = 0.87
 region2_prob = 0.65
 region3_prob = 0.17
 
+trials = 10_000
 a_wins = 0
 
-for trial in range(10_000):
+for trial in range(trials):
     wins = 0
 
     #Simulating each region one by one
@@ -28,7 +29,7 @@ for trial in range(10_000):
         
 
 #percentage of A wins
-percentage = ( a_wins / 10_000 )* 100
+percentage = ( a_wins / trials )* 100
 
 print(f"Candidate A wins in {percentage:.2f}% of the simulation.")
     
