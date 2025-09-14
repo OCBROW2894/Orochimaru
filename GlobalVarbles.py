@@ -8,7 +8,7 @@ x = "Naruto";
 def bestAnime():
     print(x, " is my First Anime"); #I am Split between naruto and One Piece so I just changed the output
 
-y="Rolls Royes";
+y="Bentely";
 def dreamCar():
     y="Bentely";
     print(y, " Is My Dream Car");
